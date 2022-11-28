@@ -1,0 +1,19 @@
+ Introduction
+ Challenge 1:Student Grade Generator (Toy Problem):
+
+Using the Grade function will generate the grades for the students & using the if statements will showcase the range of grades achieved.
+
+ Using the conditional statement; if else determines the grade of the students 
+ depending on their scores/marks achieved.
+
+ Return function returns grade depending on scores achieved.
+
+
+ Challenge 2: Speed Detector (Toy Problem)
+
+ Use the conditional statements to return "OK" if its less or equal to the speed limit.
+
+ Using the constant overSpeed determines whether the driver has exeeded the speed limit.
+
+ 
+
